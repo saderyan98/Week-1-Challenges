@@ -1,0 +1,70 @@
+//Task 1
+let faveDrinks = ['Smoothie', 'Coke Zero', 'Choc Milkshake', 'Cold Water'];
+faveDrinks.splice(1, 2);
+
+console.log(faveDrinks);
+
+
+// Task 2
+console.log(Math.floor(Math.random() * 80));
+
+
+//Task 3
+let roll = Math.floor(Math.random() * 6);
+console.log(`You rolled a ${roll}`);
+
+
+//Task 4
+let password = "pizzas" 
+
+    if 
+    (password.length < 6)
+    {console.log("Password too short")}
+
+    else if
+    (password.length >= 6)
+    {console.log(`Password length is ${password.length}. Thank you.`)};
+
+
+//Task 5
+let bool1 = true 
+let bool2 = false
+
+    {console.log(bool1 == true || bool2 == true)};
+
+
+//Task 6
+let num = 10
+
+if 
+(num % 3 == 0 & num % 5 == 0)
+{console.log("fizz buzz")}
+
+else if 
+(num % 3 == 0)
+{console.log("fizz")}
+
+else if 
+(num % 5 == 0)
+{console.log("buzz")}
+
+else 
+{console.log(num)};
+
+//Task 7
+let var1 = 4
+let var2 = math.floor(math.random() *10)
+
+if 
+(var1 == var2) 
+{console.log(`Numbers are both ${var1}`)}
+
+else {
+    console.log(`not the same: ${var2}`)}
+console.log(var2)
+
+ 
+//Task 8
+
+jrfndklhgfndjkjlkgperfijfhdknsadcvjhiiohjfkledsopiuhgtyujwsdxcvhgfdjhiopiwquhejkdsoiufghedjwshi
+

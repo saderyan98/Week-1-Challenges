@@ -1,0 +1,105 @@
+//let weather = "windy"
+
+// if (weather == "sunny") {
+//     console.log("it's sunny outside")
+// }    
+// else if (weather == "windy") {
+//     console.log("We're gonna get blown away")
+// }
+// else {
+//         console.log("I hate this weather")
+// }
+
+
+
+//let today = new Date()
+//let birthday = new Date()
+//birthday.setDate(0)
+//birthday.setMonth(9)
+//let time = birthday.getTime() - today.getTime()
+//console.log(time / 1000)
+
+// let age =  
+//if (age < 12) {
+//    console.log("can see pg movie")
+//}
+//else if (age < 15) {
+//    console.log("can see pg & 12")
+//}
+//else if (age < 18)     {
+//   console.log("can see pg, 12 & 15")
+// }
+// else {
+//     console.log("can view all movies")
+// }
+
+
+// num = "7"
+// if (num == 7) {
+//     console.log("same value")
+// }
+// else (num === 7) {
+//     console.log("same data type")
+// } 
+
+// let place = "Manc";
+// let weather = "Cloudy";
+
+// if (place == "Manc" && weather == "Sunny") {
+//     console.log("Check again");
+// }
+// else if (place == "Manc" && weather == "Rain") {
+//     console.log("Obvs");
+// }
+// else {
+//     console.log("What??");
+// }
+
+// let topping = "beef" 
+
+// if (topping == "chicken" || topping == "jalepenos") {
+//     console.log("These are important ingredients for my pizza");
+//     }
+//     else if (topping == "peperoni") {
+//     console.log(`I don't like having ${topping} on my pizza`);
+//     }
+//     else {
+//         console.log(`I don't mind having ${topping} on my pizza`);
+//     }
+
+//                                 //activity 1
+//     let favMovies = [
+//         "Fight Club", 
+//         "Spirited Away", 
+//         "Seven Pounds", 
+//         "Scarface"]
+        
+// favMovies.push("Stutz", "Mulan");
+
+//     for (let i = 0; i < favMovies.length; i++) {
+//     console.log(favMovies[i], i)
+//     }
+
+
+
+
+
+// let nums = []
+// for (let i = 0; i < 6; i++) {
+//     console.log(Math.ceil(Math.random() *50))
+// } 
+// console.log(nums)
+
+// let cards = ["diamond", "spade", "heart", "clubs"]
+// let currentCard = "clubs"
+
+// while (currentCard !== "spade") {
+//     console.log(`card selected ${currentCard}`)
+//     currentCard = cards[Math.floor(Math.random() * 4)]
+// }
+// console.log(currentCard)
+
+let nums = []
+for (let i = 9;  i => 0; i-- ) {
+    console.log(nums)
+}
